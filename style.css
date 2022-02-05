@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    font-family: 'Poppins', sans-serif;
+}
+    
+
+   
+    
+    body {
+        font-family: 'Josefin Sans', sans-serif;
+        background-color: hsl(184, 67%, 80%);
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+    }
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+    }
+   
